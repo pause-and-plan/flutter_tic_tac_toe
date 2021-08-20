@@ -2,6 +2,10 @@
 
 Simple TIC TAC TOE app coded with Flutter.
 
+## YouTube presentation
+
+[![J'apprend flutter episode 0](https://img.youtube.com/vi/T74TXYHnTlk/0.jpg)](https://www.youtube.com/watch?v=T74TXYHnTlk "J'apprend flutter episode 0")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
